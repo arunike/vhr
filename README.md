@@ -7,8 +7,8 @@ job management and title management, employee basic information management, adva
 
 ## Frontend
 <p> 
-    	<li>HTML</li>
-    	<li>Vue</li>
+    <li>HTML</li>
+    <li>Vue</li>
 	<li>ElementUI</li>
 	<li>axios</li>
 	<li>WebSocket</li>
@@ -17,7 +17,7 @@ job management and title management, employee basic information management, adva
 
 ## Backend
 <p>
-    	<li>SpringBoot</li>
+    <li>SpringBoot</li>
 	<li>MyBatis</li>
 	<li>MySQL</li>
 	<li>Redis</li>
