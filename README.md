@@ -7,10 +7,9 @@ job management and title management, employee basic information management, adva
 
 ## Frontend
 <p> 
-    <li>HTML</li>
     <li>Vue</li>
 	<li>ElementUI</li>
-	<li>axios</li>
+	<li>Axios</li>
 	<li>WebSocket</li>
 	<li>...</li>
 </p>
