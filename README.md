@@ -1,8 +1,7 @@
 # VHR
 
 ## About
-<p> VHR is a human resources management system that separates front and back end services. Implemented 
-job management and title management, employee basic information management, advance search, generate excel sheet, send emails, payroll management, employee account setup, online chat, & system notifications.
+<p> VHR is a human resources management system that separates front and back end services. Implemented job management and title management, employee basic information management, advance search, generate excel sheet, send emails, payroll management, employee account setup, online chat, & system notifications.
 </p>
 
 ## Frontend
